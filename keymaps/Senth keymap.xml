@@ -2,12 +2,32 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl c" />
   </action>
+  <action id="CopyAsDiagnosticTest" />
+  <action id="CopyReference" />
+  <action id="DumpLookupElementWeights" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="EditorPasteSimple" />
+  <action id="ExtractFunctionToScope" />
+  <action id="FileChooser.NewFolder" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl g" />
   </action>
+  <action id="GotoFile" />
+  <action id="GotoSymbol" />
+  <action id="Lua.NewLuaScript">
+    <keyboard-shortcut first-keystroke="shift ctrl n" second-keystroke="shift ctrl l" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift ctrl n" second-keystroke="shift ctrl d" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" second-keystroke="shift ctrl f" />
+  </action>
+  <action id="PopupHector" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="SurroundWith" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl s" />
   </action>
