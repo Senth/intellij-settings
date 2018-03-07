@@ -6,8 +6,9 @@
   <action id="CopyReference" />
   <action id="DumpLookupElementWeights" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorPasteSimple" />
   <action id="ExtractFunctionToScope" />
   <action id="FileChooser.NewFolder" />
