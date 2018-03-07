@@ -26,7 +26,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" second-keystroke="shift ctrl f" />
   </action>
   <action id="PopupHector" />
+  <action id="RefactoringMenuRenameFile">
+    <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
+  </action>
   <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl c" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
+  </action>
+  <action id="RerunTests" />
   <action id="SurroundWith" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl s" />
