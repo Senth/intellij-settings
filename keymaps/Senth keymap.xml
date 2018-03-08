@@ -2,6 +2,9 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl c" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="CopyAsDiagnosticTest" />
   <action id="CopyReference" />
   <action id="DumpLookupElementWeights" />
@@ -15,6 +18,8 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl g" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile" />
   <action id="GotoSymbol" />
   <action id="Lua.NewLuaScript">
