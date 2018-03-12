@@ -1,0 +1,41 @@
+<keymap version="1" name="Senth OSX" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Diff" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift meta g" second-keystroke="shift meta c" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="CopyAsDiagnosticTest" />
+  <action id="Diff.ShowDiff" />
+  <action id="DumpLookupElementWeights" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="ExtractFunctionToScope" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindPrevious" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta g" second-keystroke="shift meta g" />
+  </action>
+  <action id="RecentChanges" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta r" second-keystroke="shift meta c" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" second-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="RerunTests" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift meta g" second-keystroke="shift meta s" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="hg4idea.QGotoFromPatches" />
+  <action id="openAssertEqualsDiff" />
+  <action id="tasks.close" />
+  <action id="tasks.goto" />
+  <action id="tasks.open.in.browser" />
+  <action id="tasks.switch" />
+</keymap>
