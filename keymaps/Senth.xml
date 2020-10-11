@@ -1,0 +1,16 @@
+<keymap version="1" name="Senth" parent="$default">
+  <action id="CopyReference" />
+  <action id="DumpLookupElementWeights" />
+  <action id="EditorPasteSimple" />
+  <action id="ExtractFunctionToScope" />
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="PopupHector" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
+  </action>
+  <action id="ReplaceInPath" />
+</keymap>
