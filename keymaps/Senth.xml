@@ -15,7 +15,11 @@
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
   </action>
+  <action id="GotoFile" />
   <action id="GotoSymbol" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl n" second-keystroke="shift ctrl c" />
+  </action>
   <action id="PopupHector" />
   <action id="Refactorings.QuickListPopupAction" />
   <action id="RenameElement">
