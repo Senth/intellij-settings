@@ -1,8 +1,17 @@
 <keymap version="1" name="Senth" parent="$default">
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl a" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl c" />
+  </action>
   <action id="CopyReference" />
   <action id="DumpLookupElementWeights" />
   <action id="EditorPasteSimple" />
   <action id="ExtractFunctionToScope" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl g" />
+  </action>
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
   </action>
@@ -13,4 +22,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl s" />
+  </action>
+  <action id="Vcs.ToggleAmendCommitMode">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl m" />
+  </action>
 </keymap>
