@@ -34,8 +34,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="GotoFile" />
-  <action id="GotoSymbol" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="GuiDesigner.CreateListener" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="Move" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="shift ctrl n" second-keystroke="shift ctrl c" />
@@ -47,6 +51,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" second-keystroke="shift ctrl f" />
   </action>
   <action id="NextDiff" />
+  <action id="OverrideMethods" />
   <action id="PopupHector" />
   <action id="Refactorings.QuickListPopupAction" />
   <action id="RenameElement">
